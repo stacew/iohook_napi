@@ -1,6 +1,7 @@
 .idea
 .vscode
 .scratch
+dist
 build
 builds
 docs/.vuepress/dist
@@ -14,8 +15,6 @@ prebuilds
 examples/**/.DS_Store
 npm-debug.log*
 stacktrace*
-binding.gyp
-uiohook.gyp
 
 libuiohook/nbproject/
 libuiohook/build/
